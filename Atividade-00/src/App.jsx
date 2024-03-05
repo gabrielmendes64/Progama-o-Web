@@ -1,5 +1,5 @@
-//GABRIEL DE SOUZA MENDES - 536692
-//FELIPE OLVEIRA NOGUEIRA - 
+//GABRIEL DE SOUZA MENDES 
+//FELIPE OLVEIRA NOGUEIRA  
 
 import './App.css'
 import { MeusDados } from './components/01MeusDados';

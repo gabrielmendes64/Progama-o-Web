@@ -1,11 +1,13 @@
-export function MeusDados() {
-  return (
-    <>
-      <h1>Gabriel de Souza Mendes</h1>
-      <h1>Felipe Oliveira Nogueira</h1>
-    </>
-  );
-}
+import React from "react"
+
+// export function MeusDados() {
+//   return (
+//     <>
+//       <h1>Gabriel de Souza Mendes</h1>
+//       <h1>Felipe Oliveira Nogueira</h1>
+//     </>
+//   );
+// }
 
 // export const MeusDados = () => {
 //   return (
@@ -29,3 +31,14 @@ export function MeusDados() {
 //       ;
 //   }
 // }
+
+export class MeusDados extends React.Component {
+  render() {
+    return (
+      <>
+        <h1>Gabriel de Souza Mendes</h1>
+        <h1>Felipe Oliveira Nogueira</h1>
+      </>
+    )
+  }
+}
