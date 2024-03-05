@@ -1,0 +1,35 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+  padding-top: 4rem;
+  gap: 1rem;
+  line-height: 160%;
+
+  h1 {
+    color: #64748b;
+  }
+
+  h2 {
+    padding-bottom: 0.75rem;
+    color: #cbd5e1;
+  }
+
+  strong {
+    font-size: 1.125rem;
+  }
+
+  font-family: sans-serif;
+  color: #e2e8f0;
+
+}
+
+body {
+  background: #0f172a;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
