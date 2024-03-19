@@ -1,0 +1,19 @@
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+
+}
+
+
+.questionTitle {
+  line-height: 160%;
+  font-size: 2.25rem;
+}
+
+body {
+  color: #0f172a;
+  font-family: sans-serif;
+  background: #cbd5e1;
+}
