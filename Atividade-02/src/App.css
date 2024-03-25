@@ -1,0 +1,24 @@
+body {
+  background-color: #09090b;
+  font-family: sans-serif;
+  color: #f4f4f5;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  h1 {
+    font-size: 2rem;
+  }
+}
+
+button {
+  margin-top: 0.875rem;
+  padding: 1rem;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
